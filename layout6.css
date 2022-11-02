@@ -1,0 +1,51 @@
+
+ .header
+ {
+	 margin:auto;
+	 width:auto;
+	 height:300px;
+	 color:blue;
+	 background-color:black;
+ }
+ .h1
+ {
+	 padding-top:25px;
+	 font-size:30px;
+	 text-align:center;
+	 color:white;
+	
+ }
+ .h6
+ {
+	 color:grey;
+	 font-size:15px;
+	 text-align:center;
+ }
+ .bdy
+ {
+	 padding:250px;
+	 height:450px;
+	 display:flex;
+	 flex-direction:row;
+	 justify-content:spaceevenly;
+	 flex-wrap:wrap;
+	 margin:10px;
+	
+ }
+ .text
+ {
+	 padding:10px;
+	 height:150px;
+	 width:250px;
+	 background-color:skyblue;
+	 margin:5px;
+ }
+ .services
+ {
+	  padding:20px;
+	 background-color:grey;
+	display:flex;
+	border:2px solid black;
+	margin:50px;
+	flex-direction:column;
+}
